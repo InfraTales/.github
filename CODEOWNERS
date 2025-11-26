@@ -1,0 +1,38 @@
+# InfraTales Code Owners
+# These owners will be automatically requested for review on PRs
+
+# Default owners for everything
+* @InfraTales/maintainers
+
+# Infrastructure code
+*.tf @InfraTales/infrastructure
+*.tfvars @InfraTales/infrastructure
+/terraform/ @InfraTales/infrastructure
+
+# CDK code
+cdk.json @InfraTales/infrastructure
+*.ts @InfraTales/developers
+*.go @InfraTales/developers
+*.java @InfraTales/developers
+
+# Documentation
+*.md @InfraTales/documentation
+/docs/ @InfraTales/documentation
+/diagrams/ @InfraTales/documentation
+
+# Security-sensitive files
+SECURITY.md @InfraTales/security
+/docs/security.md @InfraTales/security
+*.pem @InfraTales/security
+*.key @InfraTales/security
+
+# CI/CD configuration
+/.github/ @InfraTales/maintainers
+.github/workflows/ @InfraTales/devops
+
+# Dependencies
+package.json @InfraTales/maintainers
+package-lock.json @InfraTales/maintainers
+requirements.txt @InfraTales/maintainers
+go.mod @InfraTales/maintainers
+build.gradle @InfraTales/maintainers

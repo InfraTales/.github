@@ -1,0 +1,88 @@
+# PR Labeler configuration for InfraTales
+# https://github.com/actions/labeler
+
+# Infrastructure
+infrastructure:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '*.tf'
+          - '*.tfvars'
+          - 'terraform/**'
+          - 'cdk.json'
+          - 'cdktf.json'
+
+# Documentation
+documentation:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '*.md'
+          - 'docs/**'
+          - 'diagrams/**'
+
+# CI/CD
+ci-cd:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '.github/**'
+          - 'Dockerfile'
+          - 'docker-compose*.yml'
+
+# Security
+security:
+  - changed-files:
+      - any-glob-to-any-file:
+          - 'SECURITY.md'
+          - 'docs/security.md'
+          - '**/security/**'
+
+# Dependencies
+dependencies:
+  - changed-files:
+      - any-glob-to-any-file:
+          - 'package.json'
+          - 'package-lock.json'
+          - 'requirements.txt'
+          - 'go.mod'
+          - 'go.sum'
+          - 'build.gradle'
+          - 'pom.xml'
+
+# TypeScript/JavaScript
+javascript:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '*.ts'
+          - '*.js'
+          - '*.tsx'
+          - '*.jsx'
+
+# Python
+python:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '*.py'
+          - 'requirements*.txt'
+
+# Go
+go:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '*.go'
+          - 'go.mod'
+          - 'go.sum'
+
+# Terraform
+terraform:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '*.tf'
+          - '*.tfvars'
+
+# Tests
+tests:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '**/test/**'
+          - '**/tests/**'
+          - '**/*.test.*'
+          - '**/*.spec.*'

@@ -1,0 +1,63 @@
+# Stale Issue/PR Management for InfraTales
+name: Stale Issues & PRs
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  stale:
+    name: Mark Stale
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Mark stale issues and PRs
+        uses: actions/stale@v9
+        with:
+          # Issue settings
+          stale-issue-message: |
+            👋 This issue has been automatically marked as stale because it has not had recent activity.
+            
+            It will be closed in 14 days if no further activity occurs.
+            
+            If this issue is still relevant, please:
+            - Add a comment with an update
+            - Remove the `stale` label
+            
+            Thank you for your contributions to InfraTales! 🚀
+          
+          stale-issue-label: 'stale'
+          days-before-issue-stale: 60
+          days-before-issue-close: 14
+          
+          # PR settings
+          stale-pr-message: |
+            👋 This pull request has been automatically marked as stale because it has not had recent activity.
+            
+            It will be closed in 7 days if no further activity occurs.
+            
+            If this PR is still relevant, please:
+            - Rebase and resolve any conflicts
+            - Add a comment with an update
+            - Remove the `stale` label
+            
+            Thank you for your contributions to InfraTales! 🚀
+          
+          stale-pr-label: 'stale'
+          days-before-pr-stale: 30
+          days-before-pr-close: 7
+          
+          # Exempt labels
+          exempt-issue-labels: 'pinned,security,bug,enhancement'
+          exempt-pr-labels: 'pinned,security,work-in-progress'
+          
+          # Remove stale label when updated
+          remove-stale-when-updated: true
+          
+          # Limit operations per run
+          operations-per-run: 50

@@ -1,0 +1,97 @@
+# Reusable Documentation Validation Workflow for InfraTales
+# Usage:
+#   jobs:
+#     docs:
+#       uses: InfraTales/.github/.github/workflows/reusable-docs.yml@main
+
+name: Reusable Docs Validation
+
+on:
+  workflow_call:
+    inputs:
+      check_diagrams:
+        description: 'Validate Mermaid diagrams'
+        required: false
+        type: boolean
+        default: true
+
+jobs:
+  validate:
+    name: Validate Documentation
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check required files
+        run: |
+          echo "📋 Checking InfraTales required files..."
+          
+          errors=0
+          
+          # Root files
+          for file in README.md LICENSE CONTRIBUTING.md SECURITY.md; do
+            if [ -f "$file" ]; then
+              echo "✅ $file"
+            else
+              echo "❌ $file - MISSING"
+              errors=$((errors + 1))
+            fi
+          done
+          
+          # Documentation
+          for file in docs/cost.md docs/security.md docs/runbook.md docs/troubleshooting.md; do
+            if [ -f "$file" ]; then
+              echo "✅ $file"
+            else
+              echo "⚠️ $file - missing"
+            fi
+          done
+          
+          if [ $errors -gt 0 ]; then
+            echo "::warning::$errors required files are missing"
+          fi
+
+      - name: Validate README format
+        run: |
+          echo "📖 Checking README format..."
+          
+          # Check for InfraTales branding
+          if head -1 README.md | grep -q "^# InfraTales"; then
+            echo "✅ InfraTales branding present"
+          else
+            echo "⚠️ README should start with '# InfraTales | ...'"
+          fi
+          
+          # Check for footer
+          if grep -q "infratales.com" README.md; then
+            echo "✅ InfraTales footer present"
+          else
+            echo "⚠️ InfraTales footer missing"
+          fi
+
+      - name: Validate Mermaid diagrams
+        if: ${{ inputs.check_diagrams }}
+        run: |
+          echo "📊 Validating Mermaid diagrams..."
+          
+          for file in diagrams/architecture.mmd diagrams/sequence.mmd diagrams/dataflow.mmd; do
+            if [ -f "$file" ]; then
+              first=$(head -1 "$file")
+              if echo "$first" | grep -qE "^(graph|sequenceDiagram|flowchart|classDiagram|stateDiagram|erDiagram|pie|gantt|journey|mindmap)"; then
+                echo "✅ $file - valid"
+              else
+                echo "⚠️ $file - invalid syntax"
+              fi
+            else
+              echo "⚠️ $file - missing"
+            fi
+          done
+
+      - name: Check for broken links
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --no-progress '*.md' 'docs/*.md'
+          fail: false
+        continue-on-error: true

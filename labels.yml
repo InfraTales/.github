@@ -1,0 +1,133 @@
+# InfraTales Standard Labels
+# Use with: https://github.com/EndBug/label-sync
+
+# Type labels
+- name: bug
+  color: d73a4a
+  description: Something isn't working
+
+- name: enhancement
+  color: a2eeef
+  description: New feature or request
+
+- name: documentation
+  color: 0075ca
+  description: Improvements or additions to documentation
+
+- name: question
+  color: d876e3
+  description: Further information is requested
+
+- name: security
+  color: ee0701
+  description: Security related issue or PR
+
+# Priority labels
+- name: priority/critical
+  color: b60205
+  description: Critical priority - needs immediate attention
+
+- name: priority/high
+  color: d93f0b
+  description: High priority
+
+- name: priority/medium
+  color: fbca04
+  description: Medium priority
+
+- name: priority/low
+  color: 0e8a16
+  description: Low priority
+
+# Size labels
+- name: size/XS
+  color: 3CBF00
+  description: Extra small change (< 10 lines)
+
+- name: size/S
+  color: 5D9801
+  description: Small change (< 100 lines)
+
+- name: size/M
+  color: 7F7203
+  description: Medium change (< 500 lines)
+
+- name: size/L
+  color: A14C05
+  description: Large change (< 1000 lines)
+
+- name: size/XL
+  color: C32607
+  description: Extra large change (1000+ lines)
+
+# Status labels
+- name: stale
+  color: ededed
+  description: Marked as stale due to inactivity
+
+- name: pinned
+  color: 006b75
+  description: Pinned - will not be marked as stale
+
+- name: work-in-progress
+  color: fbca04
+  description: Work in progress - not ready for review
+
+- name: needs-review
+  color: 0052cc
+  description: Needs review from maintainers
+
+- name: blocked
+  color: b60205
+  description: Blocked by another issue or external dependency
+
+# Technology labels
+- name: terraform
+  color: 5C4EE5
+  description: Terraform related
+
+- name: cdk
+  color: FF9900
+  description: AWS CDK related
+
+- name: python
+  color: 3776AB
+  description: Python related
+
+- name: javascript
+  color: F7DF1E
+  description: JavaScript/TypeScript related
+
+- name: go
+  color: 00ADD8
+  description: Go related
+
+# Area labels
+- name: infrastructure
+  color: 1D76DB
+  description: Infrastructure code
+
+- name: ci-cd
+  color: 7057FF
+  description: CI/CD related
+
+- name: dependencies
+  color: 0366D6
+  description: Dependency updates
+
+- name: tests
+  color: BFD4F2
+  description: Test related
+
+# InfraTales specific
+- name: cost-optimization
+  color: 0E8A16
+  description: Cost optimization related
+
+- name: good-first-issue
+  color: 7057FF
+  description: Good for newcomers
+
+- name: help-wanted
+  color: 008672
+  description: Extra attention is needed

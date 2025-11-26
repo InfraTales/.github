@@ -1,0 +1,75 @@
+# Reusable Terraform Workflow for InfraTales
+# Usage: 
+#   jobs:
+#     terraform:
+#       uses: InfraTales/.github/.github/workflows/reusable-terraform.yml@main
+
+name: Reusable Terraform CI
+
+on:
+  workflow_call:
+    inputs:
+      terraform_version:
+        description: 'Terraform version to use'
+        required: false
+        type: string
+        default: '1.6.0'
+      working_directory:
+        description: 'Directory containing Terraform files'
+        required: false
+        type: string
+        default: '.'
+      run_security_scan:
+        description: 'Run security scanning'
+        required: false
+        type: boolean
+        default: true
+
+jobs:
+  validate:
+    name: Validate
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v3
+        with:
+          terraform_version: ${{ inputs.terraform_version }}
+
+      - name: Terraform Format
+        run: terraform fmt -check -recursive
+        working-directory: ${{ inputs.working_directory }}
+        continue-on-error: true
+
+      - name: Terraform Init
+        run: terraform init -backend=false
+        working-directory: ${{ inputs.working_directory }}
+
+      - name: Terraform Validate
+        run: terraform validate
+        working-directory: ${{ inputs.working_directory }}
+
+  security:
+    name: Security Scan
+    runs-on: ubuntu-latest
+    if: ${{ inputs.run_security_scan }}
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run tfsec
+        uses: aquasecurity/tfsec-action@v1.0.3
+        with:
+          working_directory: ${{ inputs.working_directory }}
+          soft_fail: true
+
+      - name: Run checkov
+        uses: bridgecrewio/checkov-action@v12
+        with:
+          directory: ${{ inputs.working_directory }}
+          soft_fail: true
+          framework: terraform

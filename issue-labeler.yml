@@ -1,0 +1,29 @@
+# Issue Labeler configuration for InfraTales
+# Labels issues based on title/body content
+
+bug:
+  - '(bug|fix|error|issue|problem|broken)'
+
+enhancement:
+  - '(feature|enhancement|improve|add|new)'
+
+documentation:
+  - '(doc|docs|documentation|readme|guide)'
+
+question:
+  - '(question|how|what|why|help)'
+
+security:
+  - '(security|vulnerability|cve|exploit)'
+
+terraform:
+  - '(terraform|tf|hcl)'
+
+cdk:
+  - '(cdk|aws-cdk|cdktf)'
+
+cost:
+  - '(cost|pricing|billing|expense)'
+
+performance:
+  - '(performance|slow|fast|optimize|speed)'
