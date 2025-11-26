@@ -1,0 +1,60 @@
+title: "[Idea] "
+labels:
+  - idea
+  - needs-triage
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Share Your Idea
+        We love hearing new ideas from the community!
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: What's your idea?
+      description: Describe your idea or suggestion
+      placeholder: I think it would be great if...
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does it solve?
+      description: What use case or pain point does this address?
+      placeholder: This would help with...
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Have you considered any alternatives?
+      placeholder: I also thought about...
+    validations:
+      required: false
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: What area does this idea relate to?
+      options:
+        - New Project Idea
+        - Existing Project Enhancement
+        - Documentation
+        - Automation/CI
+        - Community
+        - Other
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Acknowledgements
+      options:
+        - label: I have searched existing discussions and issues
+          required: true

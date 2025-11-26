@@ -1,0 +1,28 @@
+{
+  "projectName": "InfraTales",
+  "projectOwner": "InfraTales",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": ["profile/README.md"],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "rahulladumor",
+      "name": "Rahul Ladumor",
+      "avatar_url": "https://github.com/rahulladumor.png",
+      "profile": "https://github.com/rahulladumor",
+      "contributions": [
+        "code",
+        "doc",
+        "maintenance",
+        "infra",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "contributorsSortAlphabetically": true
+}

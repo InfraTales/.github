@@ -1,0 +1,48 @@
+title: "[Show & Tell] "
+labels:
+  - show-and-tell
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Show & Tell
+        Share what you've built with InfraTales!
+
+  - type: textarea
+    id: project
+    attributes:
+      label: What did you build?
+      description: Describe what you created using InfraTales
+      placeholder: I built a...
+    validations:
+      required: true
+
+  - type: textarea
+    id: how
+    attributes:
+      label: How did you use InfraTales?
+      description: Which projects or patterns did you use?
+      placeholder: I used the...
+    validations:
+      required: true
+
+  - type: textarea
+    id: learnings
+    attributes:
+      label: Key learnings
+      description: What did you learn? Any tips for others?
+      placeholder: I learned that...
+    validations:
+      required: false
+
+  - type: textarea
+    id: links
+    attributes:
+      label: Links
+      description: Any links to your project, blog post, etc.
+      placeholder: |
+        - GitHub: 
+        - Blog: 
+        - Demo:
+    validations:
+      required: false

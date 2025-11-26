@@ -8,6 +8,11 @@
   [![Projects](https://img.shields.io/badge/Projects-27+-green?style=for-the-badge)](https://github.com/orgs/InfraTales/repositories)
   [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
   
+  [![OpenSSF Scorecard](https://img.shields.io/ossf-scorecard/github.com/InfraTales/.github?style=flat-square&label=OpenSSF%20Scorecard)](https://securityscorecards.dev/viewer/?uri=github.com/InfraTales/.github)
+  [![All Contributors](https://img.shields.io/github/all-contributors/InfraTales/.github?style=flat-square&color=orange)](CONTRIBUTORS.md)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
+  [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg?style=flat-square)](https://conventionalcommits.org)
+  
   **Build enterprise-grade infrastructure with battle-tested patterns**
 </div>
 
