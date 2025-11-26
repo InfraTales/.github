@@ -129,6 +129,43 @@ We welcome contributions! Please read our:
 
 ---
 
+## 👨‍💻 Meet the Founder
+
 <div align="center">
-  <sub>Built with ❤️ by the InfraTales Team</sub>
+  <a href="https://github.com/rahulladumor">
+    <img src="https://github.com/rahulladumor.png" width="120" style="border-radius: 50%;" alt="Rahul Ladumor"/>
+  </a>
+  
+  ### **Rahul Ladumor**
+  *Founder & Lead Architect*
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-@rahulladumor-181717?style=flat-square&logo=github)](https://github.com/rahulladumor)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahulladumor-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/rahulladumor)
+  [![Twitter](https://img.shields.io/badge/Twitter-@rahulladumor-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/rahulladumor)
+  
+  *AWS Solutions Architect & Cloud Infrastructure Expert with 10+ years of experience building scalable, production-grade systems. Created InfraTales to share battle-tested infrastructure patterns with the community.*
+</div>
+
+---
+
+## 💖 Support InfraTales
+
+If you find InfraTales helpful, consider supporting the project:
+
+<div align="center">
+  
+  [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-❤️-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/rahulladumor)
+  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/infratales)
+  [![Premium](https://img.shields.io/badge/Premium%20Content-purple?style=for-the-badge&logo=patreon)](https://infratales.com/premium)
+  
+  ⭐ **Star our repositories** to show support!
+  
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by <a href="https://github.com/rahulladumor">Rahul Ladumor</a> & the InfraTales Community</sub>
+  <br/>
+  <sub>© 2024 InfraTales. All rights reserved.</sub>
 </div>

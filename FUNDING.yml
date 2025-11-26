@@ -1,4 +1,14 @@
-# These are supported funding model platforms
+# InfraTales Funding
+# Support the project and its creator
+
+# GitHub Sponsors - Primary
 github: [rahulladumor]
+
+# Patreon
 patreon: infratales
-custom: ['https://infratales.com/premium', 'https://buymeacoffee.com/infratales']
+
+# Custom links
+custom:
+  - https://infratales.com/premium
+  - https://buymeacoffee.com/infratales
+  - https://ko-fi.com/rahulladumor

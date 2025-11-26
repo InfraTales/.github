@@ -2,12 +2,30 @@
 
 Thanks to all the wonderful people who have contributed to InfraTales!
 
+## 👨‍💻 Founder
+
+<div align="center">
+  <a href="https://github.com/rahulladumor">
+    <img src="https://github.com/rahulladumor.png" width="100" alt="Rahul Ladumor"/>
+  </a>
+  <br/>
+  <strong>Rahul Ladumor</strong>
+  <br/>
+  <em>Founder & Lead Architect</em>
+  <br/><br/>
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-@rahulladumor-181717?style=flat-square&logo=github)](https://github.com/rahulladumor)
+  [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ea4aaa?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/rahulladumor)
+</div>
+
+---
+
 ## Core Team
 
 <!-- ALL-CONTRIBUTORS-LIST:START -->
 | Avatar | Name | Role | Contributions |
 |--------|------|------|---------------|
-| <img src="https://github.com/rahulladumor.png" width="50"> | **Rahul Ladumor** | Lead Maintainer | Code, Docs, Infra, Ideas |
+| <a href="https://github.com/rahulladumor"><img src="https://github.com/rahulladumor.png" width="60"></a> | **[Rahul Ladumor](https://github.com/rahulladumor)** | Founder & Lead | 💻 Code, 📖 Docs, 🚇 Infra, 💡 Ideas, 🔧 Maintenance |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
