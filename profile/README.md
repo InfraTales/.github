@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://infratales.com/logo.png" alt="InfraTales Logo" width="200"/>
+  <img src="https://infratales.com/content/images/2025/11/favicon_icon-2.png" alt="InfraTales Logo" width="200"/>
   
   # InfraTales
-  
   ### Production-Ready AWS Infrastructure Reference Architectures
   
   [![Website](https://img.shields.io/badge/Website-infratales.com-blue?style=for-the-badge)](https://infratales.com)
