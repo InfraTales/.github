@@ -120,10 +120,12 @@ We welcome contributions! Please read our:
 
 <div align="center">
   
-  [![Website](https://img.shields.io/badge/Website-infratales.com-blue?style=flat-square&logo=google-chrome)](https://infratales.com)
-  [![Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-orange?style=flat-square&logo=substack)](https://infratales.com/newsletter)
-  [![Premium](https://img.shields.io/badge/Premium-Content-purple?style=flat-square&logo=patreon)](https://infratales.com/premium)
-  [![Twitter](https://img.shields.io/badge/Twitter-@InfraTales-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/InfraTales)
+  [![Website](https://img.shields.io/badge/Website-infratales.com-667eea?style=flat-square&logo=google-chrome)](https://infratales.com)
+  [![Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-764ba2?style=flat-square&logo=substack)](https://infratales.com/newsletter)
+  [![Premium](https://img.shields.io/badge/Premium-Content-FF9900?style=flat-square&logo=patreon)](https://infratales.com/premium)
+  [![GitHub](https://img.shields.io/badge/GitHub-InfraTales-181717?style=flat-square&logo=github)](https://github.com/InfraTales)
+  
+  **Contact**: [rahul.ladumor@infratales.com](mailto:rahul.ladumor@infratales.com) | **Security**: [security@infratales.com](mailto:security@infratales.com)
   
 </div>
 
@@ -139,11 +141,13 @@ We welcome contributions! Please read our:
   ### **Rahul Ladumor**
   *Founder & Lead Architect*
   
+  [![Portfolio](https://img.shields.io/badge/Portfolio-rahulladumor.in-FF5722?style=flat-square&logo=google-chrome)](https://www.rahulladumor.in)
+  [![Blog](https://img.shields.io/badge/Blog-acloudwithrahul.in-00C7B7?style=flat-square&logo=hashnode)](https://www.acloudwithrahul.in)
   [![GitHub](https://img.shields.io/badge/GitHub-@rahulladumor-181717?style=flat-square&logo=github)](https://github.com/rahulladumor)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahulladumor-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/rahulladumor)
-  [![Twitter](https://img.shields.io/badge/Twitter-@rahulladumor-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/rahulladumor)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahulladumor-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rahulladumor)
+  [![Email](https://img.shields.io/badge/Email-rahul.ladumor@infratales.com-D14836?style=flat-square&logo=gmail)](mailto:rahul.ladumor@infratales.com)
   
-  *AWS Solutions Architect & Cloud Infrastructure Expert with 10+ years of experience building scalable, production-grade systems. Created InfraTales to share battle-tested infrastructure patterns with the community.*
+  *AWS Solutions Architect & Cloud Infrastructure Expert with 8+ years of experience building scalable, production-grade systems. 4x AWS Community Builder. Created InfraTales to share battle-tested infrastructure patterns with the community.*
 </div>
 
 ---
@@ -167,5 +171,10 @@ If you find InfraTales helpful, consider supporting the project:
 <div align="center">
   <sub>Built with ❤️ by <a href="https://github.com/rahulladumor">Rahul Ladumor</a> & the InfraTales Community</sub>
   <br/>
-  <sub>© 2024 InfraTales. All rights reserved.</sub>
+  <sub>© 2025 InfraTales. All rights reserved.</sub>
+  <br/><br/>
+  <a href="https://www.rahulladumor.in">Portfolio</a> •
+  <a href="https://www.acloudwithrahul.in">Blog</a> •
+  <a href="https://github.com/rahulladumor">GitHub</a> •
+  <a href="https://www.linkedin.com/in/rahulladumor">LinkedIn</a>
 </div>
