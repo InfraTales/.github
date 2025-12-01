@@ -1,0 +1,23 @@
+/**
+ * ═══════════════════════════════════════════════════════════════════════════
+ *                              INFRATALES™
+ *              Production-Ready AWS Infrastructure Solutions
+ * ═══════════════════════════════════════════════════════════════════════════
+ *
+ * @project     {PROJECT_NAME}
+ * @file        {FILE_NAME}
+ * @author      Rahul Ladumor <rahul.ladumor@infratales.com>
+ * @copyright   Copyright (c) 2024-2025 Rahul Ladumor / InfraTales
+ * @license     InfraTales Open Source License (see LICENSE file)
+ *
+ * @website     https://infratales.com
+ * @github      https://github.com/InfraTales
+ * @portfolio   https://www.rahulladumor.in
+ *
+ * ───────────────────────────────────────────────────────────────────────────
+ * This file is part of InfraTales open-source infrastructure projects.
+ * Unauthorized removal of this header violates the license terms.
+ *
+ * SIGNATURE: INFRATALES-{FILE_HASH}
+ * ═══════════════════════════════════════════════════════════════════════════
+ */
