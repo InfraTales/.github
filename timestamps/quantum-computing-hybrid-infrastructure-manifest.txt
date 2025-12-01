@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: quantum-computing-hybrid-infrastructure
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/quantum-computing-hybrid-infrastructure
+
+Timestamp Created: 2025-12-01T05:53:54Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: 66601ad55120b97e3d59d53a48ee23ede45def93dc47df045bfacfac86f86f73
+LICENSE: f3f5985b36e9504e467d0336defa91ccda0f956f05e1f217c9d56f3649b7e84e
+NOTICE: b4faff6a0ff9de4ccc41b5d0d89c2505e963702bffc9fc888745755a7f0a0049
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

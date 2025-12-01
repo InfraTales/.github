@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: synthetic-monitoring-global
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/synthetic-monitoring-global
+
+Timestamp Created: 2025-12-01T05:54:08Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: e7cc8249c00194b88a5cb7642e8e84ce45fb2007f7a5398320d61a0ef8f9b806
+LICENSE: b272413f94d533ec1039def504a223509e6d0af9374523624ddc7cf3d08c981f
+NOTICE: 46000bf9730ddfe46aad1c7266f59a630b9f227bb4f22900d9ed25d1e0bae069
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

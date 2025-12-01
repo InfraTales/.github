@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: serverless-data-pipeline-lakehouse
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/serverless-data-pipeline-lakehouse
+
+Timestamp Created: 2025-12-01T05:54:05Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: c27fcbd5bc2c844089e3d2f13050e6b35da5fc7bea258f1dac13340cddad92b6
+LICENSE: c53ae8663c06fd057554316d9dc802ebb829ebfcd53be47542b1f4a734c1ba7d
+NOTICE: 9e8e987d068346cf58e9eca1edbe252e6c95bdc926f34b091d404c11820d2bce
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

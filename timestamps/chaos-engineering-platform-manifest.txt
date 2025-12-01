@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: chaos-engineering-platform
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/chaos-engineering-platform
+
+Timestamp Created: 2025-12-01T05:53:12Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: d5d6587b16446836f040c4c0e3befa3df1f431ce01cb480708a8d54105cc81f4
+LICENSE: 7fb0fc72666e5a680aad5bb98f16f437a988803b2b6f1e340a26915ba57c4362
+NOTICE: 808e89a3d0e659b323212209b2387684d96e5454a55bb3a5321fc16eeadb85ea
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

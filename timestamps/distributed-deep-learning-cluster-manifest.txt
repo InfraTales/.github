@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: distributed-deep-learning-cluster
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/distributed-deep-learning-cluster
+
+Timestamp Created: 2025-12-01T05:53:18Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: d58eac572a8c24ec3d970c8198705cf7a113216cb0d81ca63917723ba0655fcf
+LICENSE: 7bf490d2d4821ab6cde025aee5b45563a8dbd19fb544b8062450752dc0c0eb98
+NOTICE: eb0ddae9b9aca2492d1900c4127242255ea3b0d80beb60dffbb230b0184bfe5b
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

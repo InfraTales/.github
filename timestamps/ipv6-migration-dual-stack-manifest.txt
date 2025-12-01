@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: ipv6-migration-dual-stack
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/ipv6-migration-dual-stack
+
+Timestamp Created: 2025-12-01T05:53:40Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: a549c233e49f19f9c42f1145d44f564c56a20951f2d75f180bb35127672e16fd
+LICENSE: 72651f612800b0d9be8f58c1de1002fbc027c739fdbd490a277ca671fdb97dea
+NOTICE: ed5c8dcdcb96f5a90ab0a060f784eb2e53988e11c766c47f9ac9510d21a3fe18
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

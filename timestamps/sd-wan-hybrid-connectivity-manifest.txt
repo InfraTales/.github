@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: sd-wan-hybrid-connectivity
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/sd-wan-hybrid-connectivity
+
+Timestamp Created: 2025-12-01T05:54:01Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: 6cfa6eea1657f5acd029900a7d665c47f86b6039b250a77760a7e0b333cd81b0
+LICENSE: cd5921e014728f5c4bc8babb6cafabe50abe68a7846b2513b842a18005cd8f60
+NOTICE: ae7ddc36b0823b5900b81519d2a0be9cc5e37e10c314e2b9be44b8e5dabd53eb
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

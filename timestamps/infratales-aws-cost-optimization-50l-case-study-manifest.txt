@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: infratales-aws-cost-optimization-50l-case-study
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/infratales-aws-cost-optimization-50l-case-study
+
+Timestamp Created: 2025-12-01T05:53:31Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: 7b1e6e3e4db65dab87fdf954557ad174a1f595a060f24f26bb17bfb7f13973e0
+LICENSE: 849f231f1a868e1d68e7a584e7c00d5d90c94bc42019b7aa825536186af3218e
+NOTICE: 2f4f0d70f1c37c2b162a1c99d6cd1a988f9114b3450c5dca7d89941ca7d38ed7
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

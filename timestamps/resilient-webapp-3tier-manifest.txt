@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: resilient-webapp-3tier
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/resilient-webapp-3tier
+
+Timestamp Created: 2025-12-01T05:53:56Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: bba370b6d42dc617a08085b5f10f638c7c312e42beeab73d0c88067e9aada12b
+LICENSE: db9e1f645534452db2530b79b2d027fb14b5958752688bb787d4b9b0dc37e119
+NOTICE: 4c2b271bf5e5a622349b751409555d3e8530cab168fbb88e78ec6aad69468103
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

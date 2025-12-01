@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: network-function-virtualization
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/network-function-virtualization
+
+Timestamp Created: 2025-12-01T05:53:48Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: fdc90c11b07fd7ac530e38c9835c311772193801c2bee09a339e2bff2ec41e89
+LICENSE: d4bcc7c090e66904a00510d3b988a2d5188a0420410c735396c12a6a18408ee0
+NOTICE: a4ef3a79eafa77dcfb2af617774ee3ded56e9151049391f6f1b635c9b26591f6
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

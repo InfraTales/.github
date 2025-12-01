@@ -1,0 +1,21 @@
+InfraTales Project Manifest
+===========================
+
+Project: infratales-serverless-ai-inference
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/infratales-serverless-ai-inference
+
+Timestamp Created: 2025-12-01T05:53:34Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: 52f2ce297eeb47d984b96614f55c7ca716057d7894ed604c96a34f2e58a02cd2
+LICENSE: 8c967da665802c2424deaf03c81dc1ef72ae3e9df8e670c1899947e34f6443fd
+NOTICE: a782c86039f2ab40d29312040c68abc5926fd4675926fe924badd453cb7d5484
+src/*: bb233fc85b78d5ff02ec97459b9f4a49c1cf6e3d92b35207bad1ef12c8191b06
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

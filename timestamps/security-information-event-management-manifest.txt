@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: security-information-event-management
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/security-information-event-management
+
+Timestamp Created: 2025-12-01T05:54:03Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: f7407273df507b13b8d5652cce7c98f06ce096afa2294bf6a289d65ec2e01564
+LICENSE: 694647e6a29e0af0e7ce1a4706275a0af2b91292fc3192ea9a3e8d288b4cb06f
+NOTICE: e3e2b7f4632db4c1e6f4d3900bd7d6953b91ed2961305c6ca60791c40e049722
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

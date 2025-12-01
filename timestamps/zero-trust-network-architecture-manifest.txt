@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: zero-trust-network-architecture
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/zero-trust-network-architecture
+
+Timestamp Created: 2025-12-01T05:54:11Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: b7c3cad76cf99334f96cb2698b9b078ac8bd67e26a0a9cd968f65019a7ac7bf9
+LICENSE: 026d6897f5f851a37b799db69e644e58c9c6eb7eb69a3eb9cc368c43fd901a02
+NOTICE: 41a308e1fae4ebb2f4806f96494526136ad4f731891cd030a6fd6268b3bd4cf7
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

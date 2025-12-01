@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: change-data-capture-streaming
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/change-data-capture-streaming
+
+Timestamp Created: 2025-12-01T05:53:10Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: 65b3ac9e1b3913f8554a69f9c20b0f7f0df98b362562b1ad665e6bc1a35cedd5
+LICENSE: 06a44e60fa97540a609aae18c64f08a7f37f56c7e3eb214939e831abef63ea04
+NOTICE: d6a5798793690aaec9f5684d250231d0d9ab6d5b45e99d394b88f1a11f93fdcb
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

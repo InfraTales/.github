@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: devsecops-pipeline-security
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/devsecops-pipeline-security
+
+Timestamp Created: 2025-12-01T05:53:16Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: 66e63f78d26ccede5c09a688174ba84e219af733add229bc6d1fd9f80593861a
+LICENSE: b97ff28dfcbac18e7a502eefbd9506e9a9e6350b5dcdc4a90480fb00a28ce3f2
+NOTICE: b5d54cb1e4a1790bdc4a22268fae5d67d6935943d141fe75f80c8dd17ee6d6e7
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

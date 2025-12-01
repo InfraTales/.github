@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: hardware-security-module-infrastructure
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/hardware-security-module-infrastructure
+
+Timestamp Created: 2025-12-01T05:53:29Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: 4b1ba2a18bddbb8909e55fb480cc79f6a7531b1030f027d8a6a9506511a527fa
+LICENSE: 04bef8d02d4d867b593830f37caa71724340801769507a0e31d54f51e4751585
+NOTICE: c5c84a0f316cbba3b00ab719636b18562adc2825e36e2285038db451efbe1b28
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

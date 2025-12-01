@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: infratales-zero-downtime-bluegreen-terraform
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/infratales-zero-downtime-bluegreen-terraform
+
+Timestamp Created: 2025-12-01T05:53:37Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: 009b2c1990b7594591a1913fc57462ce79799653b6f67a1e4e3468c606bb46fc
+LICENSE: e3a68978bccb6db0f9a5d4ca6aacaa800bfa963094e52e48f125035db71a54ff
+NOTICE: b1a05d05fc927f4ded9fecf580feada6686cb4f1db4b314a65c6e70319cbdca4
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: apm-distributed-profiling
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/apm-distributed-profiling
+
+Timestamp Created: 2025-12-01T05:53:07Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: 95ab891c830509301f4b12acf2909765f108a23a1439750f32c00683ff4bf2eb
+LICENSE: f6adb9ade2d936338279d20ffaa32411b51dd6e3cefddb46972a9d5216bafd51
+NOTICE: c8b00ce34f200d809040a2d8c490f6061c92441b0b2ad8d18db483976f29e809
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

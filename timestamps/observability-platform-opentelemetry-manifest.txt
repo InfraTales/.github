@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: observability-platform-opentelemetry
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/observability-platform-opentelemetry
+
+Timestamp Created: 2025-12-01T05:53:50Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: ce8284284bc9d4dbc589602aee20c42c074c9e5587abe767e86d1dc67d495f92
+LICENSE: 6cc8b0bf9d09662b204475c6e7869add93e82355cdc165236c256683002c2eae
+NOTICE: 6b7191b1cc420b981d6e4c35620e6015e874f657833cd7f668fe5dc0fe2f1b14
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

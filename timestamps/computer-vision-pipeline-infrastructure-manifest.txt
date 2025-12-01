@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: computer-vision-pipeline-infrastructure
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/computer-vision-pipeline-infrastructure
+
+Timestamp Created: 2025-12-01T05:53:14Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: 3d15b6065645bbdb10d3ca734770eb25dd7c8e610546a2195de834d864c27c8f
+LICENSE: 3c01856a9713a2005ba84e24842dcdf7a19e6f08d7ff9174e896457e0831056b
+NOTICE: eba2b018f165880bca02fd0cbb0d13401fd4d3f6804fe2d6dd83bc705f4ebfdf
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

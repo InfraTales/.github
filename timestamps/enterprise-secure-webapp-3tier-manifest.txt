@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: enterprise-secure-webapp-3tier
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/enterprise-secure-webapp-3tier
+
+Timestamp Created: 2025-12-01T05:53:22Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: a4c1de628c0f8a7a46ada44f5b9e4fcfbc8b87dfd694b9c6bc6a6fcca0ca597e
+LICENSE: 52d8c8f291656e54ba6e04eb1ee44641b755fdb5884675a367c7c0fbcdf31569
+NOTICE: d681e539323d9b630f34d067413185f2115f3616d5ec5cae7944f6f539bc1ed8
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

@@ -1,0 +1,21 @@
+InfraTales Project Manifest
+===========================
+
+Project: rideshare-location-consistency
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/rideshare-location-consistency
+
+Timestamp Created: 2025-12-01T05:53:58Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: b8f2ce700d440bd1088eaaff76d1f77ac7ed58176a0a160cfa32ac7b9405fc6b
+LICENSE: 69090d087a035bb548f4849f10ab0634603f99cf8b607bb6da170df77d0982e0
+NOTICE: c5658c55e24dc40c482dcff99abd2dff5d1ebdd6fbfd4d3907425e1a0f393e11
+src/*: a753a6241ee5512e586fc07cf7fc12b13fe3225b1336300fbc002005cfeca3c5
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

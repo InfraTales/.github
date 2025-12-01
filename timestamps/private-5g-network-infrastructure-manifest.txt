@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: private-5g-network-infrastructure
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/private-5g-network-infrastructure
+
+Timestamp Created: 2025-12-01T05:53:52Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: 04ad17bf3e1df48e83b677eb5862242297dc41dccfcf45a44a5ff9d71c402885
+LICENSE: f3d2b29b825a3b081c89253e9765ae94a3f9f1398bd01db9963b40bcdec6c2db
+NOTICE: f28324bb81c490d039fba07931f347ff8e5a823847bda24d33e13407d831c88b
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

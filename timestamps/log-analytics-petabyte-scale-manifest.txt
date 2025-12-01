@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: log-analytics-petabyte-scale
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/log-analytics-petabyte-scale
+
+Timestamp Created: 2025-12-01T05:53:43Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: 1719603dd269b8b95fdd96f1800429dee77b381a91ef8794c26bc25f042f93c7
+LICENSE: 40e2da6b0b30ddfbc32ab4fdbb0293c49f23c8933f464cf08a099ca8408fb5d0
+NOTICE: 79e3205b26e8439404a9809665f09701a77ff6d614240d47501c7326017cdd3f
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

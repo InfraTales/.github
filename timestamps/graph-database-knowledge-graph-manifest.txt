@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: graph-database-knowledge-graph
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/graph-database-knowledge-graph
+
+Timestamp Created: 2025-12-01T05:53:27Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: 62e0dc06df860691a2b4c6a3d9d4aa3cb9533983cdd0418e3619dd161273e2b7
+LICENSE: f8c7a64a2b5fd58f0a569e7c1acb0e38527b31e2965c62972076fbfcdf1aa925
+NOTICE: e4b33fe1decf941e4f7905a7f9f0413b73adb814f634feeb8ce00a39f4a8a635
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

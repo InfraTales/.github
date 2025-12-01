@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: mlops-full-lifecycle-platform
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/mlops-full-lifecycle-platform
+
+Timestamp Created: 2025-12-01T05:53:45Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: 03f4a90f24654072745a094fc7cb7ab843d4213617264504e10f65ef18e96595
+LICENSE: 14c0f095d85cb70ff4885503899ce2df2a0e1556765ffb9954993fe384e14f51
+NOTICE: bd78ed2011a6e8dbc69d49bc6d42383df3c98111561cbb0135860ca465a091a5
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org

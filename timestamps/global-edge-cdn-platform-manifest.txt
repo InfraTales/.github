@@ -1,0 +1,20 @@
+InfraTales Project Manifest
+===========================
+
+Project: global-edge-cdn-platform
+Organization: InfraTales
+Author: Rahul Ladumor
+Email: rahul.ladumor@infratales.com
+Website: https://infratales.com
+GitHub: https://github.com/InfraTales/global-edge-cdn-platform
+
+Timestamp Created: 2025-12-01T05:53:24Z
+
+File Hashes (SHA-256):
+---------------------
+README.md: 2f985e34e04cafcde16460f02b9ab0e5ede3a0bcb1560dae32e44473786e2b5c
+LICENSE: 473af5a6d90cc8c3426355d77de876e8a94d5eb56d0f2a90ebca3d31f241e9be
+NOTICE: eca299ff48bec16f40d0b8f4cad2c38794a6e758905d79e8738b9c0c9d17b725
+
+This manifest is timestamped on the Bitcoin blockchain via OpenTimestamps.
+Verify at: https://opentimestamps.org
