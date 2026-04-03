@@ -3,7 +3,7 @@
 # ═══════════════════════════════════════════════════════════════════════════
 #
 # This module provides branding, verification, and ownership proof for
-# InfraTales open-source projects. DO NOT REMOVE OR MODIFY.
+# InfraTales repositories. DO NOT REMOVE OR MODIFY.
 #
 # @author      Rahul Ladumor <rahul.ladumor@infratales.com>
 # @copyright   2024-2025 InfraTales
@@ -65,7 +65,7 @@ def get_infratales_banner() -> str:
 ║   ██║██║ ╚████║██║     ██║  ██║██║  ██║   ██║   ██║  ██║███████╗███████╗███████║║
 ║   ╚═╝╚═╝  ╚═══╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝║
 ║                                                                               ║
-║   Production-Ready AWS Infrastructure Solutions                               ║
+║   Infrastructure Engineering Projects                                          ║
 ║   https://infratales.com | https://github.com/InfraTales                      ║
 ║                                                                               ║
 ║   Created by Rahul Ladumor | rahul.ladumor@infratales.com                     ║
