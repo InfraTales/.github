@@ -1,63 +1,49 @@
-# Getting Support
+# Support
 
-## Documentation
+InfraTales support is best-effort unless a separate private agreement exists. Public repositories should be understandable without needing direct contact from the maintainer.
 
-Before seeking support, please check:
+## Before Opening An Issue
 
-- [Project README](https://github.com/InfraTales) - Overview and quick start
-- [Documentation](https://infratales.com/docs) - Detailed guides
+Check the repository itself first:
 
----
+- the README
+- the repo type and status declaration
+- `docs/` for setup, limitations, and troubleshooting
+- existing issues or discussions in the relevant repository
 
-## Finding Answers
+If the repo is marked `Experimental` or `Archived`, expect rough edges or limited maintenance.
 
-### 1. Search Existing Issues
+## Where To Ask
 
-Your question may already be answered:
-- [Open Issues](https://github.com/InfraTales/.github/issues)
-- [Closed Issues](https://github.com/InfraTales/.github/issues?q=is%3Aissue+is%3Aclosed)
+### Project-specific questions
 
-### 2. GitHub Discussions
+Open an issue or discussion in the repository you are using. Include:
 
-For questions and community help:
-- [Start a Discussion](https://github.com/orgs/InfraTales/discussions)
+- what you tried
+- exact commands
+- relevant error output
+- the repository name and commit or branch if it matters
 
-### 3. Stack Overflow
+### Organization-level standards questions
 
-Tag your question with `infratales`, `aws`, `terraform`, or `aws-cdk`
+Open an issue in [`InfraTales/.github`](https://github.com/InfraTales/.github) if the topic is:
 
----
+- repo classification
+- public standards
+- license policy
+- contribution policy
 
-## Reporting Issues
+### Security issues
 
-### Bug Reports
+Do **not** open a public issue. Email [security@infratales.com](mailto:security@infratales.com).
 
-[Open an issue](https://github.com/InfraTales/.github/issues/new?template=bug_report.md) with:
-- Clear description
-- Steps to reproduce
-- Environment details
+## Response Expectations
 
-### Feature Requests
+- No guaranteed response time
+- No public SLA
+- No blanket commitment that every repo is actively maintained
+- No assumption that a public repo is production-ready unless the repo itself says so and the contents support it
 
-[Open a feature request](https://github.com/InfraTales/.github/issues/new?template=feature_request.md)
+## Commercial Or Private Help
 
----
-
-## Community Channels
-
-| Channel | Link |
-|---------|------|
-| GitHub Discussions | [Discussions](https://github.com/orgs/InfraTales/discussions) |
-| Twitter | [@InfraTales](https://twitter.com/InfraTales) |
-| Newsletter | [Subscribe](https://infratales.com/newsletter) |
-
----
-
-## Enterprise Support
-
-Contact: enterprise@infratales.com
-
-- Priority support and SLAs
-- Custom implementations
-- Training and workshops
-- Architecture reviews
+If you need private consulting, architecture review, or implementation support, contact [rahul.ladumor@infratales.com](mailto:rahul.ladumor@infratales.com). Public repositories should not imply that such services are bundled with open support.

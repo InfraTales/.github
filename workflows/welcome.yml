@@ -44,9 +44,9 @@ jobs:
             
             ---
             
-            Questions? Tag `@InfraTales/maintainers` or check our [docs](https://infratales.com/docs).
+            Questions? Tag `@InfraTales/maintainers` or review our [organization standards](https://github.com/InfraTales/.github).
             
-            Thanks for contributing to open-source infrastructure! 🚀
+            Thanks for contributing to InfraTales public repositories.
 
       - name: Welcome new issue author
         if: github.event_name == 'issues'

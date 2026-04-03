@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════════════════════
 #                              INFRATALES™
-#              Production-Ready AWS Infrastructure Solutions
+#                  Infrastructure Engineering Projects
 # ═══════════════════════════════════════════════════════════════════════════
 #
 # Project:     {PROJECT_NAME}
@@ -14,8 +14,8 @@
 # Portfolio:   https://www.rahulladumor.in
 #
 # ───────────────────────────────────────────────────────────────────────────
-# This file is part of InfraTales open-source infrastructure projects.
-# Unauthorized removal of this header violates the license terms.
+# This file is part of InfraTales repositories.
+# See LICENSE for the governing terms.
 #
 # SIGNATURE: INFRATALES-{FILE_HASH}
 # ═══════════════════════════════════════════════════════════════════════════

@@ -2,7 +2,7 @@
 
 ## Overview
 
-InfraTales is an open-source organization providing production-ready AWS infrastructure reference architectures. This document outlines our governance structure, decision-making processes, and community guidelines.
+InfraTales is a public engineering organization publishing AWS infrastructure repositories under explicit repo-type, status, and review standards. This document outlines governance expectations for the organization and its public repositories.
 
 ---
 

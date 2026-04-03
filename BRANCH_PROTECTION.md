@@ -104,5 +104,5 @@ gh api repos/InfraTales/{repo}/branches/main/protection
 ---
 
 <div align="center">
-  <sub>Apply these rules to all InfraTales repositories for enterprise-grade security</sub>
+  <sub>Apply these rules to all InfraTales repositories for consistent protection and review standards</sub>
 </div>
