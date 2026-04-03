@@ -1,58 +1,37 @@
-## 📝 Description
+## Description
 
-<!-- Provide a brief description of the changes -->
+<!-- Brief description of the change -->
 
-## 🔗 Related Issues
+## Related Issues
 
-<!-- Link to related issues: Fixes #123, Closes #456 -->
+<!-- Fixes #123 -->
 
-## ✅ Checklist
+## Checklist
 
-### Mandatory Requirements
+### Public trust
 
-- [ ] **README.md** follows InfraTales branding format
-- [ ] **LICENSE** file present (MIT)
-- [ ] **CONTRIBUTING.md** included
-- [ ] **SECURITY.md** included
+- [ ] README claims still match the checked-in implementation
+- [ ] Repository type and status are declared correctly
+- [ ] No placeholder or editorial text remains
 
-### Documentation
+### Documentation and governance
 
-- [ ] `docs/cost.md` with cost estimates in ₹
-- [ ] `docs/security.md` with security overview
-- [ ] `docs/runbook.md` with operations guide
-- [ ] `docs/troubleshooting.md` with common issues
+- [ ] `LICENSE` is present and consistent with README language
+- [ ] `CONTRIBUTING.md` is present
+- [ ] `SECURITY.md` is present
+- [ ] `docs/architecture.md` and `docs/limitations.md` are present
+- [ ] Additional docs required by the repo type were updated
 
-### Diagrams
+### Engineering quality
 
-- [ ] `diagrams/architecture.mmd` (Mermaid format, no code blocks)
-- [ ] `diagrams/sequence.mmd` (Mermaid format, no code blocks)
-- [ ] `diagrams/dataflow.mmd` (Mermaid format, no code blocks)
+- [ ] Relevant lint, test, and validation commands pass locally
+- [ ] No secrets or sensitive data were committed
+- [ ] Any important limitations or follow-up work are called out below
 
-### Code Quality
+## Testing
 
-- [ ] No hardcoded secrets or credentials
-- [ ] Tests pass locally
-- [ ] Linting passes
-- [ ] Documentation updated
+<!-- Paste the commands you ran and summarize the results -->
 
-### Security
+## Notes
 
-- [ ] IAM follows least privilege
-- [ ] Encryption enabled where applicable
-- [ ] Security groups properly restricted
-
-## 📸 Screenshots
-
-<!-- Add screenshots if applicable -->
-
-## 🧪 Testing
-
-<!-- Describe how you tested your changes -->
-
-```bash
-# Commands to test
-```
-
-## 📋 Additional Notes
-
-<!-- Any additional information -->
+<!-- Anything reviewers should pay attention to -->
